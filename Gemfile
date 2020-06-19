@@ -4,8 +4,10 @@ ruby File.read('.ruby-version').chomp.split('-')[1] { |f| "ruby '#{f}'"}
 gem 'sass-rails', '>= 6.0.0'
 gem 'rails', '5.2.4.3'
 gem 'unicorn'
+
 gem 'jquery-rails', '>= 4.4.0'
 gem 'nokogiri', '>= 1.10.4'
+
 gem 'rest-client', '~> 2.0.2'
 gem 'rgeo'
 gem 'georuby'
