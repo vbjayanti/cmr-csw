@@ -66,3 +66,4 @@ Execute the command below in the project root directory:
     rails server
 
 Open `http://localhost:3000/csw` in a local browser.
+Added Snyk PR
